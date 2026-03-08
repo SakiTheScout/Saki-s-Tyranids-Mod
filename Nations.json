@@ -1,0 +1,24 @@
+[
+  {
+		"name": "Hive Fleet",
+		"leaderName": "Hive Mind",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "...Light... Minds... Call... Planet... Here... Edible... Invade... Breed... Eat... Now... Hungry...",
+		"startIntroPart2": "...Start... Produce... Scout... Analyse...",
+		"declaringWar": "...Consume...",
+		"attacked": "...Protect...",
+		"defeated": "...Darkening...",
+		"introduction": "...Food...",
+		"neutralHello": "...Mind...",
+		"hateHello": "...Hostile...",
+		"tradeRequest": "...Negotiate...",
+		"outerColor": [255,253,249],
+		"innerColor": [255,210,111],
+		
+		"uniqueName": "Great Devourer",
+		"uniques":[],
+		"cities": ["Central Node"],
+		"personality": "Hive Mind"
+	}
+]
